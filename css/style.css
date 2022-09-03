@@ -6,24 +6,19 @@
   font-family: 'Poppins', sans-serif;
 }
 .nav-item a {
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .nav-item a:hover {
   color:#2B50AA ;
-  background-color: #fff;
-  border-radius: 10%;
 }
 
 main {
   background-color: #fff;
 }
-footer p, a {
-  background-color: #272727;
-  color: #fff;
-}
+
 h2 {
-  color: #2B50AA;
+  color: #1d30dd;
 }
 .carousel {
     margin-bottom: 4rem;
